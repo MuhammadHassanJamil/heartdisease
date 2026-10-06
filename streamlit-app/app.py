@@ -55,7 +55,7 @@ st.markdown(
     notebook. Enter a patient's clinical values below and the trained Support
     Vector Classifier (SVC) will predict whether heart disease is present.
 
-    *Model accuracy on held-out test data: **78%** (303-row dataset, 2/3 train and 1/3 test).*
+    *Model accuracy on held-out test data: **81%** (303-row dataset, 202 train and 101 test).*
     """
 )
 
